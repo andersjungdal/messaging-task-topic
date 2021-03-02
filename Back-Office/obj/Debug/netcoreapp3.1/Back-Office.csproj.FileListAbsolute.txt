@@ -1,0 +1,16 @@
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.exe
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.deps.json
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.runtimeconfig.json
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\Back-Office.pdb
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.AssemblyInfo.cs
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.csproj.CopyComplete
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.pdb
+C:\Users\ander\Desktop\Tour\Tour_project\Back-Office\obj\Debug\netcoreapp3.1\Back-Office.genruntimeconfig.cache

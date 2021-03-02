@@ -1,0 +1,16 @@
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.exe
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.deps.json
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.runtimeconfig.json
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.runtimeconfig.dev.json
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\Email_Service.pdb
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.csprojAssemblyReference.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.AssemblyInfoInputs.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.AssemblyInfo.cs
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.csproj.CoreCompileInputs.cache
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.csproj.CopyComplete
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.dll
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.pdb
+C:\Users\ander\Desktop\Tour\Tour_project\Email_Service\obj\Debug\netcoreapp3.1\Email_Service.genruntimeconfig.cache
