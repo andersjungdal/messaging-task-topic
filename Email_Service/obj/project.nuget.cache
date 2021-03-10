@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PAC1fYfKW2+QLdkt8+k65xKxRZwJAk4rigqZOo8yGw7qUqSR8GJuwDiHTsf6fTy9WHAkn25xBqbn3TVlU+uZAA==",
+  "dgSpecHash": "gWZgWond/kkcsvzbuaZU+F7Mea9/y9208iPULqUV5yjPUGRF4eX90r3RQ2WWoc6EFFDb8F0v6Dg1z2ozJypY3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\Email_Service.csproj",
+  "projectFilePath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\Email_Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

@@ -110,20 +110,20 @@
   },
   "packageFolders": {
     "C:\\Users\\ander\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Back-Office\\Back-Office.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Back-Office\\Back-Office.csproj",
       "projectName": "Back-Office",
-      "projectPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Back-Office\\Back-Office.csproj",
+      "projectPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Back-Office\\Back-Office.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Back-Office\\obj\\",
+      "outputPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Back-Office\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -174,7 +174,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

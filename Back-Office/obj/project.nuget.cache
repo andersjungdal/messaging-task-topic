@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SVHOuxcjyaaJeC/DX1OGNh6NE4EV1uQnRnMXKJktTEd+QNLp3dnlbf00D5nKb4EraIlHleuIJJA3n5q+quxGA==",
+  "dgSpecHash": "/6TJSF4sbvhIKnA6b0HG2ax0Sp7ZQY6z6tKsedwKPMHRGujai74E5x3Uz0uREPcuYqBTQVo7PLSq8His/0DCyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Back-Office\\Back-Office.csproj",
+  "projectFilePath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Back-Office\\Back-Office.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

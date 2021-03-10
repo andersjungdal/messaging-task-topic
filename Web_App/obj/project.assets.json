@@ -110,20 +110,20 @@
   },
   "packageFolders": {
     "C:\\Users\\ander\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Web_App\\Web_App.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Web_App\\Web_App.csproj",
       "projectName": "Web_App",
-      "projectPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Web_App\\Web_App.csproj",
+      "projectPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Web_App\\Web_App.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Web_App\\obj\\",
+      "outputPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Web_App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
@@ -177,7 +177,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

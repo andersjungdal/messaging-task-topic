@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\Email_Service.csproj": {}
+    "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\Email_Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\Email_Service.csproj": {
+    "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\Email_Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\Email_Service.csproj",
+        "projectUniqueName": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\Email_Service.csproj",
         "projectName": "Email_Service",
-        "projectPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\Email_Service.csproj",
+        "projectPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\Email_Service.csproj",
         "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ander\\Desktop\\Tour\\Tour_project\\Email_Service\\obj\\",
+        "outputPath": "C:\\Users\\ander\\Source\\Repos\\messaging-task-topic\\Email_Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
